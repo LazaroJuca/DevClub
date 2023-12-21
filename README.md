@@ -4,3 +4,5 @@
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
 <img src="https://github.com/LazaroJuca/Easy-Shopping/blob/main/assets/desktop.jpg.jpg?raw=true" />
+
+<img src="https://github.com/LazaroJuca/Easy-Shopping/blob/main/assets/mobile.jpg.jpg?raw=true" />
